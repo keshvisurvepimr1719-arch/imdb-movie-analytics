@@ -38,6 +38,11 @@ It demonstrates **data cleaning, transformation, and exploratory data analysis (
 ## Data Source
 IMDb Movies Dataset (Kaggle): [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 
+## Sample Visualizations
+![Budget vs Revenue](visuals/budget_vs_revenue.png)
+![Rating Distribution](visuals/rating_distribution.png)
+
+
 ---
 
 📅 *Created October 2025 by Keshvi Surve*  
